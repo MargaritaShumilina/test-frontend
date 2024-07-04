@@ -116,13 +116,6 @@
   margin: 0;
 }
 
-.checklist__next-action-data {
-  font-family: Inter;
-  font-size: 12px;
-  font-weight: 400;
-  line-height: 18px;
-}
-
 .checklist__button {
   color: #4777ed;
   font-family: Inter;
